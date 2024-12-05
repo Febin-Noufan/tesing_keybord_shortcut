@@ -78,9 +78,11 @@ packages:
   keyboard_shortcut_listener:
     dependency: "direct main"
     description:
-      path: "c:\\Users\\user\\Desktop\\datamate\\keybord_shortcut_manager\\keybord_shortcut_manager"
-      relative: false
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: "02e8b25b5936a35e83b76ee6e0bb7d51ff18d358"
+      url: "https://github.com/Febin-Noufan/keyboard_shortcut_manager_.git"
+    source: git
     version: "0.1.0"
   leak_tracker:
     dependency: transitive

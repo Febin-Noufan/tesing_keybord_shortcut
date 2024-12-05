@@ -35,7 +35,9 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
   keyboard_shortcut_listener:
-      path : c:/Users/user/Desktop/datamate/keybord_shortcut_manager/keybord_shortcut_manager
+    git:
+      url: https://github.com/Febin-Noufan/keyboard_shortcut_manager_.git
+      # path : c:/Users/user/Desktop/datamate/keybord_shortcut_manager/keybord_shortcut_manager
 
 dev_dependencies:
   flutter_test:
